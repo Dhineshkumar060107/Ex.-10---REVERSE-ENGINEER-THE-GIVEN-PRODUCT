@@ -32,8 +32,8 @@
 
 ## Input:
 
-### Output:![Screenshot 2024-11-27 114015](https://github.com/user-attachments/assets/6177c511-521a-4cad-98e1-87bcc7810b55)
-
+### Output:
+![Screenshot 2024-11-27 114015](https://github.com/user-attachments/assets/4ea9a9ea-22ab-49cb-bdba-134eeec86b3b)
 
 
 ### Name: DHINESH KUMAR.L
